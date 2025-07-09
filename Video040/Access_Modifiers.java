@@ -1,7 +1,7 @@
 
 class MyEmployee {
     private String name;
-    private int ID;
+    // private int ID;
 
     public void setName(String name){
         this.name = name;
